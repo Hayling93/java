@@ -1,0 +1,19 @@
+body { 
+    background-color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
+main { 
+    width: 400px;
+    border: 1px solid black;
+    padding: auto;
+    margin: auto;
+    text-align: center;
+
+}
+
+ h1 { 
+    font-family: 'Permanent Marker', cursive;
+}
+
